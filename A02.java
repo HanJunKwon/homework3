@@ -15,6 +15,5 @@ public class A02{
 		else if(pyung_area<30)
 			System.out.print("증소형 아파트 입니다.");
 		else System.out.print("중형 아파트 입니다.");
-
 	}
 }
