@@ -14,6 +14,18 @@ public class B04{
 			System.out.printf("연봉 금액에 대한 소득세는 %d입니다",salary/28);
 		else
 			System.out.printf("연봉 금액에 대한 소득세는 %d입니다",salary/37);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 
 
